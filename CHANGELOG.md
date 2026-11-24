@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0.0 — release candidate (not yet announced as a public release)
+## 1.0.0.0 — submitted to ModHub (approval pending)
 
 - Dynamic economy based on historical indicators and gameplay-adapted market indices.
 - Twelve countries, historical periods from 2015 to 2026 and an internal future simulation.

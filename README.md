@@ -86,7 +86,7 @@ Platforms: PC/Mac.
 
 ## Download and installation
 
-Economy Control is preparing for public release. No public download is announced here yet. This repository is for documentation, screenshots and feedback, not for distributing the game-ready ZIP or source code. Once a public release is confirmed, the official download link will be added here.
+Economy Control 1.0.0.0 has been submitted to the official ModHub for review. Approval is pending. Public downloads are not available yet. This repository is for documentation, screenshots and feedback, not for distributing the game-ready ZIP or source code. Once a public release is confirmed, the official download link will be added here.
 
 ## Feedback
 
